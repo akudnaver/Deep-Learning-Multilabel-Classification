@@ -36,7 +36,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/movie-genre-prediction.git
+   git clone https://github.com/akudnaver/movie-genre-prediction.git
    cd movie-genre-prediction
    ```
 
@@ -95,11 +95,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Note:** Replace placeholders such as `https://github.com/your-username/movie-genre-prediction.git` with your actual repository link and `X%` with your model's actual performance metrics. Adjust the instructions and script names if they differ in your project.
